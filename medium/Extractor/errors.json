@@ -1,0 +1,26 @@
+{
+  "https://en.wikipedia.org/wiki/Central_bank_rate": {
+    "title": "",
+    "sections": [],
+    "full_text": "",
+    "summary": "[ERROR] page not found"
+  },
+  "https://www.investopedia.com/terms/f/financial_planning.asp": {
+    "title": "",
+    "sections": [],
+    "full_text": "",
+    "summary": "[ERROR] HTTP 404"
+  },
+  "https://www.investopedia.com/terms/d/debtmanagement.asp": {
+    "title": "",
+    "sections": [],
+    "full_text": "",
+    "summary": "[ERROR] HTTP 404"
+  },
+  "https://www.investopedia.com/terms/r/realestateinvesting.asp": {
+    "title": "",
+    "sections": [],
+    "full_text": "",
+    "summary": "[ERROR] HTTP 404"
+  }
+}
